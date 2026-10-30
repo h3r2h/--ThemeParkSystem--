@@ -18,6 +18,7 @@ Originally conceptualized in Python and refactored into strongly-typed C#, this 
 * **Automated POS Cash Register:** Accepts physical notes (£10 and £20), tracks running totals, calculates remaining balances dynamically, and dispenses correct change.
 * **Daily Capacity Control:** Features a stateful transaction loop capped at 500 customers to simulate real-world hardware kiosk limitations.
 
+**Note - The program was first made using Python and the same skills were later transferred to C#. Both the models work perfectly fine, but the code structure may be a bit different due to Python and C# being two different languages 😅
 ---
 
 ## 💻 Code Structure Overview
